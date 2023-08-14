@@ -15,5 +15,6 @@ module.exports = {
   rules: {
     'prefer-promise-reject-errors': 'off',
     quotes: ['warn', 'single', { avoidEscape: true }],
+    'vue/multi-word-component-names': 'off'
   },
 };
